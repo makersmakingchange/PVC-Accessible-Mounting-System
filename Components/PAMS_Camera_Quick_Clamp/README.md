@@ -16,9 +16,9 @@ The [PVC Assistive Mounting System](TBD) is a collection of readily available co
 | Design Specification | WIP     |      |
 | Design Rationale     | WIP     |      |
 | Bill of Materials    | WIP     |      |
-| Assembly Guide       | 0.1     | [Camera_Quick Clamp_Assembly_v1.0](\Documentation\Camera_Quick_Clamp_Assembly_v0.1.pdf)     |
-| Maker Checklist      | 0.1     | [Camera_Quick_Clamp_Checklist_v1.0](\Documentation\Camera_Quick_Clamp_Checklist_v0.1.pdf)     |
-| User Guide           | 0.1     |  [Camera_Quick_Clamp_UserGuide_v1.0](\Documentation\Camera_Quick_Clamp_UserGuide_v0.1.pdf)    |
+| Assembly Guide       | 0.1     | [Camera_Quick Clamp_Assembly_v1.0](/Documentation/Camera_Quick_Clamp_Assembly_v0.1.pdf)     |
+| Maker Checklist      | 0.1     | [Camera_Quick_Clamp_Checklist_v1.0](/Documentation/Camera_Quick_Clamp_Checklist_v0.1.pdf)     |
+| User Guide           | 0.1     |  [Camera_Quick_Clamp_UserGuide_v1.0](/Documentation/Camera_Quick_Clamp_UserGuide_v0.1.pdf)    |
 | Changelog              | WIP     |      |
 
 ## Design Files
