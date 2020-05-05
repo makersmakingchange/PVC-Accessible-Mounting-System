@@ -1,13 +1,13 @@
 # PAMS - Camera Quick Clamp
 The Camera Quick Clamp is an 3D printed adapter for attaching an assistive device to a section of 1/2 inch PVC piping. The clamp has a ¼”- 20 UNC camera thread stud that is compatible with various assistive devices and/or camera mount adapters. The clamp can easily be installed, adjusted, and removed by hand. The Camera Quick Clamp is part of the PVC Assistive Mounting System (PAMS).
 
-The [PVC Assistive Mounting System](TBD) is a collection of readily available commercial-off-the-shelf components and 3D printed components that can be assembled into various configurations to provide mounting solutions for assistive technology.
+The [PVC Assistive Mounting System](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System) is a collection of readily available commercial-off-the-shelf components and 3D printed components that can be assembled into various configurations to provide mounting solutions for assistive technology.
 
 ![PAMS Camera Quick Clamp](Camera_Quick_Clamp.jpg)
 
 ## More info at
 - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/pams-camera-quick-clamp/)
-- [Makers Making Change Forum Thread](https://www.forum.makersmakingchange.com)
+- [Makers Making Change Forum Thread](https://forum.makersmakingchange.com/t/pams-camera-quick-clamp/728)
 
 
 ## Documentation
@@ -16,16 +16,16 @@ The [PVC Assistive Mounting System](TBD) is a collection of readily available co
 | Design Specification | WIP     |      |
 | Design Rationale     | WIP     |      |
 | Bill of Materials    | WIP     |      |
-| Assembly Guide       | 0.1     | [Camera_Quick Clamp_Assembly_v1.0](/Documentation/Camera_Quick_Clamp_Assembly_v0.1.pdf)     |
-| Maker Checklist      | 0.1     | [Camera_Quick_Clamp_Checklist_v1.0](/Documentation/Camera_Quick_Clamp_Checklist_v0.1.pdf)     |
-| User Guide           | 0.1     |  [Camera_Quick_Clamp_UserGuide_v1.0](/Documentation/Camera_Quick_Clamp_UserGuide_v0.1.pdf)    |
+| Assembly Guide       | 0.1     | [Camera_Quick Clamp_Assembly_v1.0](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Components/PAMS_Camera_Quick_Clamp/Documentation/Camera_Quick_Guide_v0.1.pdf)     |
+| Maker Checklist      | 0.1     | [Camera_Quick_Clamp_Checklist_v1.0](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Components/PAMS_Camera_Quick_Clamp/Documentation/Camera_Quick_Clamp_Checklist_v0.1.pdf)     |
+| User Guide           | 0.1     |  [Camera_Quick_Clamp_UserGuide_v1.0](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Components/PAMS_Camera_Quick_Clamp/Documentation/Camera_Quick_Clamp_UserGuide_v0.1.pdf)    |
 | Changelog              | WIP     |      |
 
 ## Design Files
-[CAD Files](\CAD_Files)
+[CAD Files](/CAD_Files)
 
 ## Build Files
-[3D Printing Files](\3D_Print_Files)
+[3D Printing Files](/3D_Print_Files)
 
 ## Attribution
 The snap latch mechanism was inspired by [NASA CHAMP CLAMP (Strong man)](https://grabcad.com/library/nasa-champ-clamp-strong-man-1) by [Jonathan Brazeau](https://grabcad.com/jonathan.brazeau-3).
@@ -51,4 +51,4 @@ We are committed to creating a network of volunteer makers who support people wi
 
 ## Contact Us
 
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project/pams-camera-quick-clamp/), [MMC Forum](https://www.forum.makersmakingchange.com), or contact info@makersmakingchange.com
+For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project/pams-camera-quick-clamp/), [MMC Forum](https://forum.makersmakingchange.com/t/pams-camera-quick-clamp/728), or contact info@makersmakingchange.com
