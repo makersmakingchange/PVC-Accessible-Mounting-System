@@ -22,10 +22,10 @@ The [PVC Assistive Mounting System](https://github.com/makersmakingchange/PVC-Ac
 | Changelog              | WIP     |      |
 
 ## Design Files
-[CAD Files](/CAD_Files)
+[CAD Files](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/tree/master/Components/PAMS_Camera_Quick_Clamp/CAD_Files)
 
 ## Build Files
-[3D Printing Files](/3D_Print_Files)
+[3D Printing Files](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/tree/master/Components/PAMS_Camera_Quick_Clamp/3D_Print_Files)
 
 ## Attribution
 The snap latch mechanism was inspired by [NASA CHAMP CLAMP (Strong man)](https://grabcad.com/library/nasa-champ-clamp-strong-man-1) by [Jonathan Brazeau](https://grabcad.com/jonathan.brazeau-3).
