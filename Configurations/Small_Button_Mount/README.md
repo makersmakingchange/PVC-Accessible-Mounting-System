@@ -3,7 +3,7 @@ The Small Button Mount is a simple, inexpensive mounting solution to position sm
 
 The [PVC Assistive Mounting System](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System) is a collection of readily available commercial-off-the-shelf components and 3D printed components that can be assembled into various configurations to provide mounting solutions for assistive technology.
 
-![PAMS Small Button Mount](/Photos/Small_Button_Mount_Angled.jpg)
+![Small Button Mount](/Configurations/Small_Button_Mount/Photos/Small_Button_Mount_Angled.jpg)
 
 ## More info at
 - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/pams-small-button-mount/)
@@ -13,13 +13,13 @@ The [PVC Assistive Mounting System](https://github.com/makersmakingchange/PVC-Ac
 ## Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Specification | n/a     |  n/a   |
-| Design Rationale     | n/a     |  n/a   |
-| Bill of Materials    | 0.1     | (Small_Button_Mount_BOM_v0.1)[https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Configurations/Small_Button_Mount/Documentation/Small_Button_Mount_BOM_v0.1.pdf]     |
-| Assembly Guide       | 0.1     | (Small_Button_Mount_Assembly_v0.1)[https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Configurations/Small_Button_Mount/Documentation/Small_Button_Mount_Assembly_v0.1.pdf]   |
-| Maker Checklist      | 0.1     | (Small_Button_Mount_Checklist_v0.1)[https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Configurations/Small_Button_Mount/Documentation/Small_Button_Mount_Checklist_v0.1.pdf]      |
-| User Guide           | 0.1     | (Small_Button_Mount_UserGuide_v0.1)[https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Configurations/Small_Button_Mount/Documentation/Small_Button_Mount_UserGuide_v0.1.pdf]      |
-| Changes              | 0.1     | (Small_Button_Mount_Changelog_v0.1)[https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Configurations/Small_Button_Mount/Documentation/Small_Button_Mount_Changelog_v0.1.pdf]      |
+| Design Specification | WIP     |  n/a   |
+| Design Rationale     | WIP     |  n/a   |
+| Bill of Materials    | 0.1     | [Small_Button_Mount_BOM_v0.1](/Configurations/Small_Button_Mount/Documentation/Small_Button_Mount_BOM_v0.1.pdf)    |
+| Assembly Guide       | 0.1     | [Small_Button_Mount_Assembly_v0.1](/Configurations/Small_Button_Mount/Documentation/Small_Button_Mount_Assembly_v0.1.pdf)   |
+| Maker Checklist      | 0.1     | [Small_Button_Mount_Checklist_v0.1](/Configurations/Small_Button_Mount/Documentation/Small_Button_Mount_Checklist_v0.1.pdf)      |
+| User Guide           | 0.1     | [Small_Button_Mount_UserGuide_v0.1](/Configurations/Small_Button_Mount/Documentation/Small_Button_Mount_UserGuide_v0.1.pdf)      |
+| Changes              | 0.1     | [Small_Button_Mount_Changelog_v0.1](/Configurations/Small_Button_Mount/Documentation/Small_Button_Mount_Changelog_v0.1.pdf)      |
 
 ## Design Files
 n/a
@@ -27,6 +27,8 @@ n/a
 ## Build Files
 n/a
 
+## Attribution
+Design based on [Small Switch Stand]() by Cynthia Wheeler as found in [Practical Versatile Cheap: Assistive Technology Supports](/Resources/PVC-Practical_Versatile_Cheap_Assistive_Technology_Supports.pdf) by the Assistive Technology Educational Network (ATEN).
 
 ## License
 
