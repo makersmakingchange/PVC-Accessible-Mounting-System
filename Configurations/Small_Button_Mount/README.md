@@ -27,16 +27,12 @@ n/a
 ## Build Files
 n/a
 
-## Attribution
-Design based on [Small Switch Stand]() by Cynthia Wheeler as found in [Practical Versatile Cheap: Assistive Technology Supports](/Resources/PVC-Practical_Versatile_Cheap_Assistive_Technology_Supports.pdf) by the Assistive Technology Educational Network (ATEN).
 
 ## License
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Small Button Mount</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.makersmakingchange.com" property="cc:attributionName" rel="cc:attributionURL">Neil Squire</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
 ## About Us
-
 ![Makers Making Change Logo](https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg)
 
 Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that helps people with disabilities.
@@ -50,5 +46,4 @@ We are committed to creating a network of volunteer makers who support people wi
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
 
 ## Contact Us
-
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project/pams-camera-quick-clamp/), [MMC Forum](https://www.forum.makersmakingchange.com), or contact info@makersmakingchange.com
