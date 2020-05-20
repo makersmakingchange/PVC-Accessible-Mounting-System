@@ -16,16 +16,16 @@ The [PVC Assistive Mounting System](https://github.com/makersmakingchange/PVC-Ac
 | Design Specification | WIP     |      |
 | Design Rationale     | WIP     |      |
 | Bill of Materials    | WIP     |      |
-| Assembly Guide       | 0.1     | [Camera_Quick Clamp_Assembly_v1.0](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Components/PAMS_Camera_Quick_Clamp/Documentation/Camera_Quick_Guide_v0.1.pdf)     |
-| Maker Checklist      | 0.1     | [Camera_Quick_Clamp_Checklist_v1.0](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Components/PAMS_Camera_Quick_Clamp/Documentation/Camera_Quick_Clamp_Checklist_v0.1.pdf)     |
-| User Guide           | 0.1     |  [Camera_Quick_Clamp_UserGuide_v1.0](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Components/PAMS_Camera_Quick_Clamp/Documentation/Camera_Quick_Clamp_UserGuide_v0.1.pdf)    |
+| Assembly Guide       | 0.1     | [Camera_Quick Clamp_Assembly_v0.1](/Components/PAMS_Camera_Quick_Clamp/Documentation/Camera_Quick_Guide_v0.1.pdf)     |
+| Maker Checklist      | 0.1     | [Camera_Quick_Clamp_Checklist_v0.1](/Components/PAMS_Camera_Quick_Clamp/Documentation/Camera_Quick_Clamp_Checklist_v0.1.pdf)     |
+| User Guide           | 0.1     |  [Camera_Quick_Clamp_UserGuide_v0.1](/Components/PAMS_Camera_Quick_Clamp/Documentation/Camera_Quick_Clamp_UserGuide_v0.1.pdf)    |
 | Changelog              | WIP     |      |
 
 ## Design Files
-[CAD Files](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/tree/master/Components/PAMS_Camera_Quick_Clamp/CAD_Files)
+[CAD Files](/Components/PAMS_Camera_Quick_Clamp/CAD_Files)
 
 ## Build Files
-[3D Printing Files](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/tree/master/Components/PAMS_Camera_Quick_Clamp/3D_Print_Files)
+[3D Printing Files](/Components/PAMS_Camera_Quick_Clamp/3D_Print_Files)
 
 ## Attribution
 The snap latch mechanism was inspired by [NASA CHAMP CLAMP (Strong man)](https://grabcad.com/library/nasa-champ-clamp-strong-man-1) by [Jonathan Brazeau](https://grabcad.com/jonathan.brazeau-3).
