@@ -14,7 +14,9 @@ The [LipSync Desk Mount](/Configurations/Lipsync_Desk_Mount/README.md) provides 
 ![LipSync Desk Mount](/Configurations/LipSync_Desk_Mount/LipSync_Desk_Mount.jpg)
 
 ### Small Button Mount
-Work-in-progress
+The [Small Button Mount](/Configurations/Small_Button_Mount/README.md) is a simple, inexpensive mounting solution to position a small button on a flat surface.
+
+![Small Button Mount](/Configurations/Small_Button_Mount/Photos/Small_Button_Mount_Angled.jpg)
 
 ### Large Button Mount
 Work-in-progress
@@ -30,8 +32,6 @@ Work-in-progress
 
 ### Round Tubing clamp
 Work-in-progress
-
-
 
 ## License
 
