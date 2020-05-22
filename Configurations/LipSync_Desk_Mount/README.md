@@ -1,28 +1,28 @@
 # PAMS - LipSync Desk Mount
-The LipSync Desk Mount provides a low cost, adjustable configuration to mount the [LipSync](https://www.makersmakingchange.com/project/lipsync/) to a flat surface like a table or desk. The Lipsync can be attached directly to the  The mount attaches to the surface using two c-clamps, which can be purchased in different sizes to accommodate different desk and table thicknesses.   The LipSync Desk Mount is part of the PVC Assistive Mounting System (PAMS).
+The LipSync Desk Mount provides a low cost, adjustable configuration to mount the [LipSync](https://www.makersmakingchange.com/project/lipsync/) to a flat surface like a table or desk. The Lipsync can be attached directly to mount or using different components to provide greater flexibility. The mount attaches to the surface using two c-clamps, which can be purchased in different sizes to accommodate different desk and table thicknesses.   The LipSync Desk Mount is part of the PVC Assistive Mounting System (PAMS).
 
-The [PVC Assistive Mounting System](TBD) is a collection of readily available commercial-off-the-shelf components and 3D printed components that can be assembled into various configurations to provide mounting solutions for assistive technology.
+The [PVC Assistive Mounting System](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System) is a collection of readily available commercial-off-the-shelf components and 3D printed components that can be assembled into various configurations to provide mounting solutions for assistive technology.
 
 ![PAMS LipSync Desk Mount](LipSync_Desk_Mount.jpg)
 
 ## More info at
-- [Makers Making Change Project Page](https://www.makersmakingchange.com/project/pams-camera-quick-clamp/)
+- [Makers Making Change Project Page](https://www.makersmakingchange.com/project)
 - [Makers Making Change Forum Thread](https://www.forum.makersmakingchange.com)
 
 
 ## Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Specification | WIP     |      |
-| Design Rationale     | WIP     |      |
-| Bill of Materials    | WIP     |      |
-| Assembly Guide       | WIP     |      |
-| Maker Checklist      | WIP     |      |
-| User Guide           | WIP     |      |
-| Changes              | WIP     |      |
+| Design Specification | WIP     |  n/a   |
+| Design Rationale     | WIP     |  n/a   |
+| Bill of Materials    | 0.2     | [LipSync_Desk_Mount_BOM_v0.2](/Configurations/LipSync_Desk_Mount/Documentation/LipSync_Desk_Mount_BOM_v0.2.pdf)    |
+| Assembly Guide       | 0.2     | [LipSync_Desk_Mount_Assembly_v0.2](/Configurations/LipSync_Desk_Mount/Documentation/LipSync_Desk_Mount_Assembly_v0.2.pdf)   |
+| Maker Checklist      | 0.2     | [LipSync_Desk_Mount_Checklist_v0.2](/Configurations/LipSync_Desk_Mount/Documentation/LipSync_Desk_Mount_Checklist_v0.2.pdf)      |
+| User Guide           | 0.2     | [LipSync_Desk_Mount_UserGuide_v0.2](/Configurations/LipSync_Desk_Mount/Documentation/LipSync_Desk_Mount_UserGuide_v0.2.pdf)      |
+| Changes              | 0.2     | [LipSync_Desk_Mount_Changelog_v0.2](/Configurations/LipSync_Desk_Mount/Documentation/LipSync_Desk_Mount_Changelog_v0.2.pdf)      |
 
 ## Design Files
-[CAD Files](\CAD_Files)
+n/a
 
 ## Build Files
 n/a
@@ -49,4 +49,4 @@ We are committed to creating a network of volunteer makers who support people wi
 
 ## Contact Us
 
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project/pams-camera-quick-clamp/), [MMC Forum](https://www.forum.makersmakingchange.com), or contact info@makersmakingchange.com
+For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://www.forum.makersmakingchange.com), or contact info@makersmakingchange.com
