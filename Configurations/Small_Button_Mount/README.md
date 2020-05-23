@@ -7,7 +7,7 @@ The [PVC Assistive Mounting System](https://github.com/makersmakingchange/PVC-Ac
 
 ## More info at
 - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/pams-small-button-mount/)
-- [Makers Making Change Forum Thread](https://www.forum.makersmakingchange.com)
+- [Makers Making Change Forum Thread](https://forum.makersmakingchange.com/t/pams-small-button-mount/851)
 
 
 ## Documentation
@@ -46,4 +46,4 @@ We are committed to creating a network of volunteer makers who support people wi
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
 
 ## Contact Us
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project/pams-camera-quick-clamp/), [MMC Forum](https://www.forum.makersmakingchange.com), or contact info@makersmakingchange.com
+For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page](https://www.makersmakingchange.com/project/pams-small-button-mount/), [MMC Forum](https://forum.makersmakingchange.com/t/pams-small-button-mount/851), or contact info@makersmakingchange.com
