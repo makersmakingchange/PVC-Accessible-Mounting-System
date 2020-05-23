@@ -6,8 +6,8 @@ The [PVC Assistive Mounting System](https://github.com/makersmakingchange/PVC-Ac
 ![PAMS LipSync Desk Mount](LipSync_Desk_Mount.jpg)
 
 ## More info at
-- [Makers Making Change Project Page](https://www.makersmakingchange.com/project)
-- [Makers Making Change Forum Thread](https://www.forum.makersmakingchange.com)
+- [Makers Making Change Project Page](https://www.makersmakingchange.com/project/pams-lipsync-desk-mount/)
+- [Makers Making Change Forum Thread](https://forum.makersmakingchange.com/t/pams-lipsync-desk-mount/850)
 
 
 ## Documentation
@@ -49,4 +49,4 @@ We are committed to creating a network of volunteer makers who support people wi
 
 ## Contact Us
 
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://www.forum.makersmakingchange.com), or contact info@makersmakingchange.com
+For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page](https://www.makersmakingchange.com/project/pams-lipsync-desk-mount/), [MMC Forum](hhttps://forum.makersmakingchange.com/t/pams-lipsync-desk-mount/850), or contact info@makersmakingchange.com
