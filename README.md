@@ -3,7 +3,7 @@
 The PVC Assistive Mounting System is a collection of readily available commercial-off-the-shelf components and 3D printed components that can be assembled into various configurations to provide mounting solutions for assistive technology.
 
 ## More info at
-- [Makers Making Change Forum Thread](https://forum.makersmakingchange.com/t/pvc-assistive-mounting-system/729)
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/pvc-assistive-mounting-system-2/)
 
 
 ## Configurations
@@ -58,4 +58,4 @@ We are committed to creating a network of volunteer makers who support people wi
 
 
 ## Contact Us
-For technical questions, to get involved, or share your experience we encourage you to visit the  [MMC Forum](https://www.forum.makersmakingchange.com/), or contact info@makersmakingchange.com
+For technical questions, to get involved, or share your experience we encourage you to visit the  [MMC Forum](https://makersmakingchange.com/forum/), or contact info@makersmakingchange.com
