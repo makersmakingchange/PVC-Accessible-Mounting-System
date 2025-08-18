@@ -5,7 +5,7 @@ The PVC Assistive Mounting System is a collection of readily available commercia
 ## Configurations
 
 ### LipSync Desk Mount
-The [LipSync Desk Mount](/Configurations/LipSync_Desk_Mount/README.md) provides a low cost, adjustable system to mount the [LipSync](https://www.makersmakingchange.com/project/lipsync/) to a flat surface like a table or desk.
+The [LipSync Desk Mount](/Configurations/LipSync_Desk_Mount/README.md) provides a low cost, adjustable system to mount the [LipSync Classic](https://github.com/makersmakingchange/LipSync-Classic) to a flat surface like a table or desk.
 
 ![LipSync Desk Mount](/Configurations/LipSync_Desk_Mount/LipSync_Desk_Mount.jpg)
 
