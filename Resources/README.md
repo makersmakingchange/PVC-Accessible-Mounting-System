@@ -1,8 +1,6 @@
 # PVC Resources
 
 
-
-
 ## Suppliers
 PVC is readily available at hardware stores.
 
@@ -79,9 +77,3 @@ Amazon
 
 PVC Therapy Trike
 https://www.instructables.com/id/PVC-Therapy-Trike/
-
-
-
-
-## Contact Us
-For technical questions, to get involved, or share your experience we encourage you to visit the  [MMC Forum Thread](https://forum.makersmakingchange.com/t/pvc-assistive-mounting-system/729), or contact info@makersmakingchange.com
