@@ -44,7 +44,7 @@ Amazon
 
 ## Resources
 
-1. Assistive Technology Educational Network (ATEN). (2005). **PVC: Practical, Versatile, Cheap Assistive Technology Supports"**. Copy available in repository [here](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/master/Resources/PVC-Practical_Versatile_Cheap_Assistive_Technology_Supports.pdf).  
+1. Assistive Technology Educational Network (ATEN). (2005). **PVC: Practical, Versatile, Cheap Assistive Technology Supports"**. Copy available in repository [here](https://github.com/makersmakingchange/PVC-Accessible-Mounting-System/blob/main/Resources/PVC-Practical_Versatile_Cheap_Assistive_Technology_Supports.pdf).  
     - Basics of cutting, gluing, and finishing PVC easily and safely
     - Numerous designs:
         - Adapted Writing Aid
